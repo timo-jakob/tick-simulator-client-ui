@@ -1,0 +1,8 @@
+# Angular
+node_modules
+.angular
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
