@@ -1,5 +1,6 @@
 # Angular
 node_modules
+dist
 .angular
 
 # macOS
